@@ -1,6 +1,6 @@
 ## Management System
 본 프로젝트는 리액트 강의 목적으로 만들어진 고객 관리 시스템입니다. 
-다시 수정한다.
+다시 수정한다. 다시 수정해본다.
 
 # Getting Started with Create React App
 
